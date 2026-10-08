@@ -11,8 +11,9 @@ unconstrained and constrained optimization using grid search, SLSQP, and penalty
 candidate is the feasible grid solution, which satisfies the top-speed requirement while maintaining competitive
 cornering performance.
 
-Added surrogate model description
-Added constrained optimization summary
+Added surrogate model description.
+Added constrained optimization summary.
+Added final recommended candidate.
 
 Final Recommended Candidate: 
 Final recommended candidate (feasible grid):
