@@ -12,6 +12,7 @@ candidate is the feasible grid solution, which satisfies the top-speed requireme
 cornering performance.
 
 Added surrogate model description
+Added constrained optimization summary
 
 Final Recommended Candidate: 
 Final recommended candidate (feasible grid):
