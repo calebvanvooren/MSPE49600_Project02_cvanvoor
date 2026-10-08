@@ -13,8 +13,8 @@ cornering performance.
 
 Final Recommended Candidate: 
 Final recommended candidate (feasible grid):
-Rear wing angle: 9.56 deg
-Rear ride height: 38.10 mm
-Predicted Sector 3 time: 31.26914 s
-Predicted top speed: 284.001706 km/h
+Rear wing angle: 9.56 deg,
+Rear ride height: 38.10 mm,
+Predicted Sector 3 time: 31.26914 seconds,
+Predicted top speed: 284.001706 km/h,
 Feasible: True
